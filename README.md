@@ -23,7 +23,7 @@ A BOT TO DOWNLOAD SONGS FROM YOUTUBE.
 
 - [Oxidisedman](https://github.com/hopepsycho). 
 - [Muhammed](https://github.com/hopepsycho). 
-- [Pyrogram](https://github.com/pyrogram/pyrogram) and For [Me](https://github.com/hopepsycho)
+- [Pyrogram](https://github.com/pyrogram/pyrogram) and For [Me](https://github.com/Gangdyno/Downloadsongbot1)
 
 
 # Deploy To Heroku
